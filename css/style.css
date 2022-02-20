@@ -5,7 +5,7 @@ body
 	box-sizing: border-box;
 }
 
-h2
+.main-h2 h2
 {
 	margin: 0;
 	padding: 10px;
@@ -13,3 +13,16 @@ h2
 	color: #efefef;
 	background-color: #000;
 }
+
+.userForm 
+{
+	margin: auto;
+	width: 300px;
+}
+
+.userForm form input 
+{
+	width: 80%;
+	outline: none;
+}
+/* From is end here */
