@@ -1,5 +1,6 @@
 'use strict';
 
+const formValidations = document.querySelector('.userForm');
 
 
 function formValidation(){
