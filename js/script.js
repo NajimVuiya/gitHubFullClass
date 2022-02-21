@@ -1,7 +1,9 @@
 'use strict';
 
 const formValidations = document.querySelector('.userForm');
-
+const box1 = document.querySelector('.box-1');
+const box2 = document.querySelector('.box-2');
+const box3 = document.querySelector('.box-3'); // testing
 
 function formValidation(){
 	let userName = 'Najim vuiya';

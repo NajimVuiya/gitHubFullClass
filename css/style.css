@@ -26,3 +26,48 @@ body
 	outline: none;
 }
 /* From is end here */
+
+.box-1
+{
+	width: 300px;
+	margin: 10px 10px 10px 10px;
+	padding: 3px;
+	box-sizing: border-box;
+	border: 1px solid #000;
+	border-radius: 4px;
+	float: left;
+}
+
+
+.box-1 p,
+.box-2 p ,
+.box-3 p
+{
+	margin: 0;
+}
+
+.box-2 
+{
+	width: 300px;
+	margin: 10px 10px 10px 10px;
+	padding: 3px;
+	box-sizing: border-box;
+	border: 1px solid #000;
+	border-radius: 4px;
+	float: left;
+	overflow: hidden;
+}
+
+
+.box-3 
+{
+	width: 300px;
+	margin: 10px 10px 10px 10px;
+	padding: 3px;
+	box-sizing: border-box;
+	border: 1px solid #000;
+	border-radius: 4px;
+	overflow: hidden;
+}
+
+/* Box-3 end here css */
